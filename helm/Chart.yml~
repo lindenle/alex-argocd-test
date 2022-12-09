@@ -1,0 +1,4 @@
+apiVersion: v2
+description: tenant example
+name: tenant
+version: "1.0."
