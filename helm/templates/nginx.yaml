@@ -13,4 +13,4 @@ spec:
   source:
     path: nginx
     repoURL: https://charts.bitnami.com/bitnami
-    targetRevision: 13.2.14
+    targetRevision: 13.2.12
